@@ -1,0 +1,8 @@
+{
+  "$schema": "https://developers.cloudflare.com/workers/wrangler/config-schema.json",
+  "name": "fj-display-pro-tech",
+  "compatibility_date": "2026-08-18",
+  "assets": {
+    "directory": "./public"
+  }
+}
